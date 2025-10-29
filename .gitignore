@@ -1,0 +1,12 @@
+__history/
+__recovery/
+Win32/
+*.~* 
+*.cfg
+*.dcu
+*.exe
+*.identcache
+*.local
+*.map
+*.res
+*.tds
